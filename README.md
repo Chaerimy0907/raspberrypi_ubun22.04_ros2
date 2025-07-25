@@ -1,1 +1,2 @@
-# raspberrypi_ubun22.04_ros2
+# 라즈베리파이3 B+ 모델에 우분투 22.04 server을 설치해서 ROS2 설치
+## 1. 라즈베리파이3 B+에 우분투 22.04 server 설치
